@@ -1,0 +1,14 @@
+Czy poni¿szy program siê skompiluje?
+
+
+#include "stdio.h"
+int main()
+{
+	printf("Hello world\n");
+	return 13;
+}
+
+a) Nie, poniewa¿ stdio.h powinno byæ objête znakami < i > a nie ""
+b) Nie, gdy¿ w funkcji printf mamy z³y znak koñca wiersza. Powinno byæ /n, zamiast \n
+c) Program siê nie skompiluje, gdy¿ funkcja main zwraca 13, a powinna 0
+d) Program siê skompiluje, a po uruchomieniu wypisze "Hello world" po czym przejdzie do nastêpnego wiersza

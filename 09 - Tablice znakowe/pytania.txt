@@ -1,0 +1,13 @@
+1. Jakim znakiem jest zakoñczony ka¿dy C-string?
+	a)	null
+	b)	Null
+x	c)	NULL
+x	d)	'\0'
+
+2. W tablicy znakowej bêdziemy chcieli zapisaæ wyraz "szafa". Jak¹ d³ugoœæ powinna mieæ ta tablica?
+x	a) wiêksz¹ lub równ¹ 6
+	b) 5
+x	c) 6
+
+
+

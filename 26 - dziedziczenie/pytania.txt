@@ -1,0 +1,47 @@
+co wypiszy ten kod?
+
+#include <iostream>
+/////////////////////////////////////////////////////////////
+class A
+{
+    public:
+        virtual void fun(){std::cout<<"void A::fun()\n";}
+        virtual void fun(int){std::cout<<"void A::fun(int)\n";}
+};
+//////////////////////////////////////////////////////////////
+class B: public A
+{
+    public:
+        void fun(){std::cout<<"void B::fun()\n";}
+};
+///////////////////////////////////////////////////////////////
+int main()
+{
+    A *a = new B();
+	a->fun();
+    a->fun(1);
+ 
+ 
+    B b;
+    b.fun(1);
+    return 0;
+}
+///////////////////////////////////////////////////////////////
+
+a)	A::fun()
+	A::fun(int)
+	A::fun(int)
+
+b)	B::fun()
+	A::fun(int)
+	A::fun(int)
+
+c)	B::fun()
+	A::fun(int)
+	B::fun(int)
+
+_d) Wyst¹pi b³¹d kompilacji
+
+(Thinking in C++ 528)
+	
+

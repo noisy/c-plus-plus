@@ -1,0 +1,36 @@
+1. Jakie zmienne zostanπ zdefiniowane za pomocπ poniøszej linijki:
+	int *A, B;
+	
+x	a) jeden wskaünik o nazwie A na zmienne typu int, oraz jedna zmienna o nazwie B typu int
+	b) dwie zmienne A i B bÍdπce typu int
+	c) dwie zmienne A i B bÍdπce wskaünikami na typ int
+	d) jeden wskaünik o nazwie B na zmienne typu int, oraz jedna zmienna o nazwie A typu int
+	
+	
+2. Jakie zmienne zostanπ zdefiniowane za pomocπ poniøszej linijki:
+	int* A, B;
+	
+	a) jeden wskaünik o nazwie B na zmienne typu int, oraz jedna zmienna o nazwie A typu int
+	b) dwie zmienne A i B bÍdπce typu int
+	c) dwie zmienne A i B bÍdπce wskaünikami na typ int
+x	d) jeden wskaünik o nazwie A na zmienne typu int, oraz jedna zmienna o nazwie B typu int
+
+
+3. Jakie zmienne zostanπ zdefiniowane za pomocπ poniøszych linijki:
+	typedef int* nowy_typ
+	nowy_typ A, B;
+	
+	a) jeden wskaünik o nazwie B na zmienne typu int, oraz jedna zmienna o nazwie A typu int
+	b) dwie zmienne A i B bÍdπce typu int
+x	c) dwie zmienne A i B bÍdπce wskaünikami na typ int
+	d) jeden wskaünik o nazwie A na zmienne typu int, oraz jedna zmienna o nazwie B typu int
+	
+	
+4. Jakie zmienne zostanπ zdefiniowane za pomocπ poniøszych linijki:
+	#define int* nowy_typ
+	nowy_typ A, B;
+	
+	a) jeden wskaünik o nazwie B na zmienne typu int, oraz jedna zmienna o nazwie A typu int
+	b) dwie zmienne A i B bÍdπce typu int
+ 	c) dwie zmienne A i B bÍdπce wskaünikami na typ int
+x	d) jeden wskaünik o nazwie A na zmienne typu int, oraz jedna zmienna o nazwie B typu int

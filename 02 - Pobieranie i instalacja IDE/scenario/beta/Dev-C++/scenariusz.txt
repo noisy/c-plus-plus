@@ -1,0 +1,33 @@
+[SCENARIUSZ]
+Zanim napiszemy nasz pierwszy program bêdziemy musieli zaopatrzyæ siê w pewne niezbêdne do tego celu narzêdzia. Bêdziemy potrzebowaæ kompilatora, linkera, jakiegoœ edytora. Ale nie martw siê tymi magicznymi nazwami! Wszystkie te narzêdzia, jakie bêd¹ nam potrzebne znajdziemy w tzw. zintegrowanym œrodowisku programistycznym. Do wyboru jest wiele takich œrodowisk. Niektóre z nich s¹ darmowe. Jednym z nich jest Dev C++. Ten film poka¿e, sk¹d i jak pobraæ Dev C++, oraz jak go zainstalowaæ na naszym komputerze.
+
+
+
+Zacznijmy wiêc od wpisania nazwy programu w pole wyszukiwarki internetowej.
+
+Jak widzimy, bez problemu odnajdujemy strone producenta tego oprogramowania.
+
+PrzejdŸmy teraz do strony, z której bêdziemy mogli wybraæ konkretn¹ wersje dev C++ do pobrania.
+Wybieramy pierwsz¹, pe³n¹ wersje. Jak widzimy, mo¿emy j¹ pobraæ ze strony source forge.
+Chwile czekamy. I ju¿ mo¿emy wybraæ miejsce, gdzie zapiszemy nasz plik instalacyjny.
+
+Po zakoñczeniu pobierania mo¿emy przyst¹piæ do instalacji.
+Na pocz¹tek oczywiœcie klikamy dwukrotnie na ikonke.
+
+- Wybieramy jêzyk w jakim zostanie przeprowadzona instalacja.
+
+- Aby kontunuowaæ instalacje, powinniœmy zaakceptowaæ warunki licencji, na jakiej jest udostêpniany Dev C++. Jest on na licencji GNU GPL, oznacza to miêdzy innymi to, ¿e mo¿emy z tego oprogramowania korzystaæ za darmo.
+
+- W kolejnym kroku, mo¿emy wybraæ które komponenty chcemy zainstalowaæ. W naszym przypadku nie bêdziemy tutaj nic znieniaæ, wiêc klikamy dalej.
+
+- Nastêpnie mo¿emy wybraæ miejsce instalacji programu Dev-C++. Chcia³bym tutaj ostrzec, ¿e nie nale¿y zmieniaæ lokalizacji, na tak¹, która w swojej nazwie zawiera spacje. Mo¿e to spowodowaæ problemy w dzia³aniu pewnych aplikacji z pakietu DevC++. Dlatego nie najlepszym pomys³em jest instalowanie tego programu np. w folderze program files. Wiêc je¿eli nie mamy takiej potrzeby, to proponuje nie zmieniaæ domyœlnej lokalizacji i po prostu nacisn¹æ instaluj!
+
+- W przypadku gdy na Twoim komputerze jest wiêcej ni¿ jeden profil u¿ytkownika, zostanie wyœwietlone zapytanie, czy dla wszystkich ten program ma byæ dostêpny w menu start. W tym przypadku raczej nie ma takiej koniecznoœci.
+
+- Po kilku chwilach, devC++ jest ju¿ zainstalowany. Ale zanim go u¿yjemy, powinniœmy go wstêpnie skonfigurowaæ. To wszystko nast¹pi podczas pierwszego uruchomienia progamu. Zostawiamy wiêc zaznaczon¹ powy¿sz¹ opcje i koñczymy dzia³anie instalatora co jednoczeœnie powoduje uruchomienie programu.
+
+- Na pocz¹tek Dev C++ wita nas komunikatem, nie musisz siê w niego wczytywaæ, wystarczy nacisn¹æ OK.
+
+- Teraz wybieramy jêzyk w jakim chcemy u¿ywaæ Dev'a. Wybieramy jêzyk polski.
+- mo¿emy te¿ wybraæ jak ma wygl¹daæ nasz DevC++. Ka¿d¹ z tych opcji mo¿emy potem zmieniac, wiec nie przejmujmujemy siê tym teraz i naciskamy ok zostawiaj¹c domyœlny wygl¹d.
+[/SCENARIUSZ]

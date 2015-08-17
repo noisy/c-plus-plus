@@ -1,0 +1,3 @@
+Czy funkcja czysto wirtualna mo¿e posiadaæ definicje?
+a) oczywiœcie, ¿e nie! przecie¿ i tak nie mo¿na stworzyæ obiektu danej klasy, a wszystkie klasy pochodne i tak musz¹ mieæ zaimplementowan¹ funkcjê czysto wirtualn¹.
+b) oczywiœcie, ¿e mo¿e! Co wiêcej, przynosi to doœæ du¿e korzyœci (thinking in C++, str 522)

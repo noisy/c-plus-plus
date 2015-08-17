@@ -1,0 +1,20 @@
+Jak w³¹czyæ do programu plik nag³ówkowy biblioteki, z pomoc¹ której mo¿emy wczytywaæ i wypisywaæ informacjê na konsolê.
+a) #include <stream>
+b) #include <iostream>
+c) #include <oistream>
+d) #include <iostream.h>
+e) #include <oistream.h>
+g) #include <iostream>;
+
+
+Jak zdefiniowaæ zmienn¹ typu ca³kowitego?
+a) ind nazwa_zmiennej;
+b) nazwa_zmiennej int;
+c) int nazwa_zmiennej;
+d) Int nazwa_zmiennej;
+
+Co maj¹ ze sob¹ wspólnego definicja i deklaracja?
+a) jest to dok³adnie to samo
+b) definicja jest jednoczeœnie deklaracj¹
+c) deklaracja jest jednoczeœnie definicj¹
+

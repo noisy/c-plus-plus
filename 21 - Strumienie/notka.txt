@@ -1,0 +1,1 @@
+A file is a collection of data stored on a disk with a name and (often) a directory path. When you open a file for reading or writing, it becomes a stream.
